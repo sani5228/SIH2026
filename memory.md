@@ -186,14 +186,6 @@ No real banking/payment-gateway integration is required or in scope unless expli
 
 ---
 
-## Repository Reference
-
-- **URL:** https://github.com/sani5228/SIH2026.git
-- Contains the existing FASAL homepage and registration page (HTML/CSS/JS) that establish the visual baseline, and is the presumed home for the eventual Flask backend and PostgreSQL schema.
-- **Not yet inspected as of this file's creation** (no network access in that session). Before making further assumptions about existing implementation, schema, status-enum naming, or frontend structure, clone/inspect the repo directly.
-
----
-
 ## Development Principles
 
 1. Build database → backend foundation → auth → farmer/crop/center modules → booking → scheduling → procurement → notifications/IVR → dashboards → integration testing → security hardening → polish → demo prep (see `phase.md` Phases 0–16 for full detail; don't duplicate here).
