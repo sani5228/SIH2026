@@ -3,8 +3,6 @@
 > Persistent project memory. Read this before starting work in a new session.
 > This file summarizes and cross-references `PRD.md`, `architecture.md`, `rules.md`, `phase.md`, and `design.md` — it does not replace them. When this file and a source document disagree, treat it as a flag to re-check both, and prefer `rules.md`'s priority order (see "Documentation Map" below).
 
-> **Inspection note:** This file was generated from the five documentation files only. The repository at https://github.com/sani5228/SIH2026.git could not be inspected in the session that generated this file (no network access available). Several points below (queue/booking status names, exact schema, existing HTML/CSS/JS) are marked **[UNVERIFIED — confirm against repo]** and must be checked against the actual repository/code before being treated as final, per the project's own rule that documentation should never override existing implementation without a deliberate decision.
-
 ---
 
 ## Project Identity
